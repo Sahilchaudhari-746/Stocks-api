@@ -1,0 +1,40 @@
+/* App.css */
+.app-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .app-header {
+    color: #333;
+  }
+  
+  .input-container {
+    margin-bottom: 20px;
+  }
+  
+  .stocks-input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .table-container {
+    margin: 0 auto;
+    width: 80%;
+  }
+  
+  .stocks-table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #ccc;
+  }
+  
+  .stocks-table th, .stocks-table td {
+    padding: 10px;
+    border: 1px solid #000000;
+  }
+  
+  .stocks-table th {
+    background-color: #f0f0f0;
+  }
+  
