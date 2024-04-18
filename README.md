@@ -1,3 +1,35 @@
+# `OutPut`
+## `Depend on no of stocks user can give it can change there price up down continuosly with specific time  `
+Stocks
+Number of Stocks:
+20
+
+# Stocks
+
+## Number of Stocks: 20
+
+ID | Name | Type | Price | Movement
+---|------|------|-------|----------
+1 | NYSE American, LLC | exchange | -0.10 | Up
+2 | Nasdaq OMX BX, Inc. | exchange | -0.38 | Up
+3 | NYSE National, Inc. | exchange | -0.05 | Down
+4 | FINRA NYSE TRF | TRF | -0.09 | Up
+5 | FINRA Nasdaq TRF Carteret | TRF | -0.31 | Up
+6 | FINRA Nasdaq TRF Chicago | TRF | 0.41 | Up
+7 | FINRA Alternative Display Facility | TRF | 0.21 | Up
+8 | Unlisted Trading Privileges | SIP | 0.47 | Down
+9 | International Securities Exchange, LLC - Stocks | TRF | -0.38 | Down
+10 | Cboe EDGA | exchange | 0.31 | Down
+11 | Cboe EDGX | exchange | 0.23 | Up
+12 | NYSE Chicago, Inc. | exchange | -0.15 | Down
+13 | New York Stock Exchange | exchange | 0.23 | Down
+14 | NYSE Arca, Inc. | exchange | 0.08 | Down
+15 | Nasdaq | exchange | 0.42 | Down
+16 | Consolidated Tape Association | SIP | -0.33 | Down
+17 | Long-Term Stock Exchange | exchange | 0.44 | Down
+18 | Investors Exchange | exchange | -0.38 | Up
+19 | Cboe Stock Exchange | TRF | -0.12 | Up
+20 | Nasdaq Philadelphia Exchange LLC | exchange | -0.03 | Down
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
